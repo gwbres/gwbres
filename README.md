@@ -3,3 +3,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gwbres&repo=hatanaka)](https://github.com/gwbres/hatanaka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gwbres&repo=rinex)](https://github.com/gwbres/rinex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buildroot&repo=buildroot)](https://github.com/buildroot/buildroot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gwbres&repo=dms-coordinates)](https://github.com/gwbres/dms-coordinates)
