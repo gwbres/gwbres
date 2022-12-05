@@ -1,3 +1,1 @@
-<a href="https://github.com/gwbres">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gwbres&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_title=true" width=400/>
-</a>
+[<img src="gmetrics.svg">](#)
