@@ -1,1 +1,1 @@
-[<img src="gmetrics.svg">](#)
+[<img width="100%" alt="🦑" src="metrics.svg">](#)
