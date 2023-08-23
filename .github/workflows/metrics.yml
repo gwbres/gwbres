@@ -19,8 +19,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: no
           plugin_topics: yes
-          plugin_topics_mode: icons
+          plugin_topics_mode: labels
           plugin_topics_sort: activity
-          plugin_topics_limit: 30
           filename: metrics.svg
           config_display: large
