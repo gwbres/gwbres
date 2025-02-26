@@ -434,12 +434,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#36 Repo update: move sources</span>
+                                        <span class="issue">#7 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">rtk-rs/cggtts</span></div>
-                                    <div>6 files changed <span class="code">++22 --11</span></div>
+                                    <div> in <span class="repo">rtk-rs/ubx2rinex</span></div>
+                                    <div>5 files changed <span class="code">++239 --119</span></div>
                                 </div>
                             </section>
                         </div>
@@ -451,12 +451,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#36 Repo update: move sources</span>
+                                        <span class="issue">#7 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">rtk-rs/cggtts</span></div>
-                                    <div>6 files changed <span class="code">++22 --11</span></div>
+                                    <div> in <span class="repo">rtk-rs/ubx2rinex</span></div>
+                                    <div>5 files changed <span class="code">++239 --119</span></div>
                                 </div>
                             </section>
                         </div>
@@ -469,9 +469,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">repo-update</span>
+                                        <span class="code">develop</span>
                                         in
-                                        <span class="repo">rtk-rs/cggtts</span>
+                                        <span class="repo">rtk-rs/ubx2rinex</span>
                                     </div>
                                 </div>
                             </section>
